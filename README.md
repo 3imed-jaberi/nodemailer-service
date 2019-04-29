@@ -7,7 +7,7 @@
  - Express JS ( Framework Node JS ) 4.16.4
  - EJS ( Template Engine ) 2.6.1
  - Bootstrap ( with some CSS , ICONS .. ) 4.3.1
- - jQuery 
+ - jQuery 3.4.0
 
 
 ## Setup prerequists
