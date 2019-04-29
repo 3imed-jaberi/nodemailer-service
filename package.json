@@ -1,0 +1,61 @@
+{
+  "name": "nodemailer-service",
+  "version": "1.0.0",
+  "description": "nodemailer service made with Express JS ..",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^7.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "helmet": "^3.16.0",
+    "morgan": "^1.9.1",
+    "nodemailer": "^6.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  },
+  "scripts": {
+    "init": "npm i",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3imed-jaberi/nodemailer-service.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "express",
+    "nodemailer",
+    "mail",
+    "email",
+    "gmail-service",
+    "hotmail",
+    "stmp",
+    "js",
+    "es6",
+    "es7",
+    "es8",
+    "es9",
+    "es-next",
+    "jquery",
+    "ejs",
+    "bootstrap",
+    "css",
+    "template-engine",
+    "html5",
+    "service",
+    "microservices",
+    "rest-api",
+    "api",
+    "restful-api"
+  ],
+  "author": "imed jaberi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3imed-jaberi/nodemailer-service/issues"
+  },
+  "homepage": "https://github.com/3imed-jaberi/nodemailer-service#readme"
+}
