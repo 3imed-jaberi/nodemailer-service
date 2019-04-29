@@ -1,0 +1,9 @@
+<%- include('./components/layout/header', {title}); %>
+          
+       <% if ( displayForms ) { %>
+          <%- include('./components/forms',{result}); %>
+       <%}else{%>  
+         <%- include('./components/result'); %>
+       <% } %>
+
+<%- include('./components/layout/footer'); %>
