@@ -1,0 +1,6 @@
+
+# cached all dependencies .. 
+node_modules
+
+#cached all dependencies locks .. 
+package-lock.json
